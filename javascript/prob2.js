@@ -1,1 +1,0 @@
-let max, average ,min;
